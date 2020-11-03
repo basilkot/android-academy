@@ -1,3 +1,6 @@
+.idea
+*.jar
+
 # Built application files
 *.apk
 *.aar
